@@ -23,11 +23,19 @@ mono_crash.*
 [Rr]eleases/
 x64/
 x86/
+<<<<<<< HEAD
+=======
+[Ww][Ii][Nn]32/
+>>>>>>> b560059 (Add .gitignore and .gitattributes.)
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
 [Bb]in/
 [Oo]bj/
+<<<<<<< HEAD
+=======
+[Oo]ut/
+>>>>>>> b560059 (Add .gitignore and .gitattributes.)
 [Ll]og/
 [Ll]ogs/
 
@@ -61,6 +69,12 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 
+<<<<<<< HEAD
+=======
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+>>>>>>> b560059 (Add .gitignore and .gitattributes.)
 # StyleCop
 StyleCopReport.xml
 
@@ -137,6 +151,14 @@ _TeamCity*
 .axoCover/*
 !.axoCover/settings.json
 
+<<<<<<< HEAD
+=======
+# Coverlet is a free, cross platform Code Coverage Tool
+coverage*.json
+coverage*.xml
+coverage*.info
+
+>>>>>>> b560059 (Add .gitignore and .gitattributes.)
 # Visual Studio code coverage results
 *.coverage
 *.coveragexml
@@ -348,3 +370,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+<<<<<<< HEAD
+=======
+
+# Fody - auto-generated XML schema
+FodyWeavers.xsd
+>>>>>>> b560059 (Add .gitignore and .gitattributes.)
