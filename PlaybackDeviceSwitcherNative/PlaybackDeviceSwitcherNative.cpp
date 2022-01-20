@@ -1,17 +1,8 @@
 // EndPointController.cpp : Defines the entry point for the console application.
 //
-#include <stdio.h>
-#include <wchar.h>
-#include <tchar.h>
-#include <stdio.h>
-#include "windows.h"
 #include "Mmdeviceapi.h"
 #include "PolicyConfig.h"
-#include "Propidl.h"
 #include "Functiondiscoverykeys_devpkey.h"
-#include "atlstr.h"
-#include <stdlib.h>
-#include "Ole2.h"
 
 using namespace std;
 
